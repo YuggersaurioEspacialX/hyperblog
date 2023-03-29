@@ -1,4 +1,15 @@
 body{
 align-items: center;
+color: aliceblue;
+}
+#container
+{
+width: 70%;
+padding: 1m;
 
+}
+#container h1
+{
+
+    font-size: 20px;
 }
