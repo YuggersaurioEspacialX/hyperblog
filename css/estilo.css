@@ -14,3 +14,17 @@ padding: 1m;
 
     font-size: 20px;
 }
+#cabecera
+{
+background-color: aqua;
+color:white;
+margin:auto
+
+
+}
+#cabecera #tagline
+{
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
