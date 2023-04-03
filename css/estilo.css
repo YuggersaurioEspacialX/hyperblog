@@ -1,4 +1,5 @@
 body{
+    background: black;
 align-items: center;
 color: aliceblue;
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
@@ -18,10 +19,19 @@ padding: 1m;
 {
 background-color: aqua;
 color:red;
-margin:auto
+margin:auto;
+background: url("../imagenes/imagen.jpg") no-repeat center center cover;
+
 
 
 }
+#cabecera #logo
+{
+width: 20px;
+vertical-align:middle;
+
+}
+
 #cabecera #tagline
 {
     padding: 1em 0 0 0;
